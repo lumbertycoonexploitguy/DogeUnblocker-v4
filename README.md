@@ -1,18 +1,8 @@
 # Doge Unblocker V4
 Doge Unblocker is a lightning-fast web proxy designed for performance and stealth. We are **by far** the best proxy, offering speeds and features unbeatable by any other proxies.
-## Features:
-- Advanced Tab Cloaking
-- Advanced About:Blank Cloaking
-- Hiding site from browser history
-- Clickoff Cloaking
-- Automatic URL Cloaking
-- Customizable/Personalization features
-- Access settings easily (right-click)
-- Authentication
-- Extremely clean UI
-- A powerful web proxy
-- A large selection of Apps & Games
-- Many more
+## message me on guilded for links https://www.guilded.gg/u/mrmodded
+10 links is 5$ 20 is $10 i also take robux giftcards and vbuck giftcards
+
 ## Current Developers:
 - [Derpman](https://github.com/DerpmanDev)
 - [KDust7](https://github.com/KDust7)
